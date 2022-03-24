@@ -388,7 +388,7 @@
     <anime anidbid="765">Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki</anime>
     <anime anidbid="2033">Ginga Tetsudou 999: Eternal Fantasy</anime>
     <anime anidbid="2231">Ginga Tetsudou 999: Glass no Clair</anime>
-    <anime anidbid="3286">Kasei Ryodan Dnasights Four-Nine</anime>
+    <anime anidbid="3286">Kasei Ryodan DNA Sights 999.9</anime>
     <anime anidbid="4122">Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseruka!!</anime>
     <anime anidbid="4230">Ginga Tetsudou 999: Kimi wa Senshi no You ni Ikirareruka!!</anime>
     <anime anidbid="4315">Ginga Tetsudou 999: Eien no Tabibito Emeraldas</anime>
@@ -747,7 +747,7 @@
   <set>
     <anime anidbid="1232">Sangokushi Dai Ni Bu Choukou Moyu!</anime>
     <anime anidbid="5407">Sangokushi Dai Ichi Bu Eiyuu-tachi no Yoake</anime>
-    <anime anidbid="5408">Sangokushi Dai San Bu Harukanaru Daichi</anime>
+    <anime anidbid="5408">Sangokushi Dai San Bu: Haruka Naru Daichi</anime>
     <anime anidbid="7713">Sangokushi (1985)</anime>
     <anime anidbid="7715">Sangokushi 2: Amakakeru Otoko-tachi</anime>
     <titles>
@@ -826,7 +826,7 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="1456">Gekijouban Naruto: Dai Katsugeki! Yuki Hime Ninpouchou Datte ba yo!</anime>
+    <anime anidbid="1456">Gekijouban Naruto: Dai Katsugeki! Yuki Hime Ninpou Chou Datte ba yo!</anime>
     <anime anidbid="3030">Gekijouban Naruto: Dai Gekitotsu! Maboroshi no Chitei Iseki Datte ba yo!</anime>
     <anime anidbid="4421">Gekijouban Naruto: Dai Koufun! Mikazukijima no Animal Panic Datte ba yo!</anime>
     <anime anidbid="7228">Naruto: The Cross Roads</anime>
@@ -1226,7 +1226,7 @@
   <set>
     <anime anidbid="2608">Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki</anime>
     <anime anidbid="4742">Ninja Hattori-kun Plus Perman: Chounouryoku Wars</anime>
-    <anime anidbid="7564">Ninja Hattori-kun: Nin Nin Ninpo Enikki no Maki</anime>
+    <anime anidbid="7564">Ninja Hattori-kun: Nin Nin Ninpou Enikki no Maki</anime>
     <anime anidbid="9025">Ninja Hattori-kun Plus Perman: Ninja Kaijuu Jippou Tai Miracle Tamago</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Ninja Hattori-kun Collection</title>
@@ -1473,7 +1473,7 @@
   </set>
   <set>
     <anime anidbid="4058">Gekijouban Haruka Naru Toki no Naka de: Maihitoyo</anime>
-    <anime anidbid="5454">Harukanaru Toki no Naka de 3: Kurenai no Tsuki</anime>
+    <anime anidbid="5454">Haruka Naru Toki no Naka de 3: Kurenai no Tsuki</anime>
     <anime anidbid="7086">Harukanaru Toki no Naka de 3: Owarinaki Unmei</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Haruka Naru Toki no Naka de Collection</title>
@@ -1526,8 +1526,8 @@
     <anime anidbid="4276">Taiyou no Hou: El Cantare e no Michi</anime>
     <anime anidbid="4277">Ougon no Hou: El Cantare no Rekishikan</anime>
     <anime anidbid="4631">Eien no Hou</anime>
-    <anime anidbid="6786">Buddha Saitan: The Rebirth of Buddha</anime>
-    <anime anidbid="9081">The Mystical Laws</anime>
+    <anime anidbid="6786">Buddha Saitan</anime>
+    <anime anidbid="9081">Shinpi no Hou</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Koufuku no Kagaku Collection</title>
       <title type="official" xml:lang="en">Happy Science Collection</title>
@@ -1535,7 +1535,7 @@
   </set>
   <set>
     <anime anidbid="4319">Majime ni Fumajime Kaiketsu Zorori Nazo no Otakara Daisakusen</anime>
-    <anime anidbid="5978">Kaiketsu Zorori (1989)</anime>
+    <anime anidbid="5978">Kaiketsu Zorori</anime>
     <anime anidbid="5997">Kaiketsu Zorori: Mahou Tsukai no Deshi / Dai Kaizoku no Takara Sagashi</anime>
     <anime anidbid="8724">Majime ni Fumajime Kaiketsu Zorori: Uchuu Tanken Daisakusen</anime>
     <anime anidbid="9194">Eiga Kaiketsu Zorori: Da-da-da-daibouken!</anime>
@@ -1554,7 +1554,7 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="4526">Top o Nerae! Gunbuster (2006)</anime>
+    <anime anidbid="4526">Top o Nerae! (2006)</anime>
     <anime anidbid="4527">Top o Nerae 2! Gekijouban</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Top o Nerae! Collection</title>
@@ -1638,7 +1638,7 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="5007">Bavi Stock I: Hateshi Naki Hyouteki</anime>
+    <anime anidbid="5007">Bavi Stock I: Hateshi Naki Target</anime>
     <anime anidbid="8633">Bavi Stock II: The Revenge of Eyesman - Ai no Kodou no Kanata ni</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Bavi Stock Collection</title>
@@ -1856,7 +1856,7 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="6389">Hayate no Gotoku!! 2nd Season: Atsu ga Natsui ze - Mizugi Hen!</anime>
+    <anime anidbid="6389">Hayate no Gotoku!! Atsu ga Natsui ze - Mizugi Hen!</anime>
     <anime anidbid="8130">Gekijouban Hayate no Gotoku! Heaven Is a Place on Earth</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Hayate no Gotoku Collection</title>
@@ -2188,7 +2188,7 @@
     <anime anidbid="7818">Hello Kitty no Kurumi Wari Ningyou</anime>
     <anime anidbid="7820">Hello Kitty no Hakuchou no Ouji</anime>
     <anime anidbid="7822">Hello Kitty no Hansel to Gretel</anime>
-    <anime anidbid="7825">Hello Kitty no Ou-sama no Mimi wa Roba no Mimi</anime>
+    <anime anidbid="7825">Hello Kitty no Ousama no Mimi wa Roba no Mimi</anime>
     <anime anidbid="7826">Hello Kitty no Kieta Santa-san no Boushi</anime>
     <anime anidbid="7828">Hello Kitty no Yappari Mama ga Suki</anime>
     <anime anidbid="7829">Hello Kitty no Tomatta Big Ben</anime>
@@ -2240,11 +2240,11 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="7830">Hangyodon: Hadaka no Ou-sama</anime>
+    <anime anidbid="7830">Hangyodon no "Hadaka no Ousama"</anime>
     <anime anidbid="7835">Hangyodon no Parallel Daisakusen: Kyouryuu Oukoku wa Oosawagi</anime>
     <anime anidbid="7836">Hangyodon no Parallel Daisakusen: Mirai Sekai wa Oosawagi</anime>
     <anime anidbid="7837">Hangyodon no Parallel Daisakusen: Hana no Oedo</anime>
-    <anime anidbid="7838">Hangyodon no 00 7/2: Doctor-san</anime>
+    <anime anidbid="7838">Hangyodon no 00 7/2: Doctor Sunday Arawaru no Maki</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Hangyodon Collection</title>
     </titles>
